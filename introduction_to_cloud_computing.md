@@ -9,5 +9,5 @@ NIST defines Cloud computing as a model for enabling convenient, on-demand netwo
  This Cloud model is composed of:
  * five essential characteristics =  on-demand self service, broad network access, resource pooling, rapid elasticity, and measured service
  * four deployment models and
- * three service models. 
+ * three service models : Infrastructure (IaaS), Platform (PaaS), Software (SaaS).
  
